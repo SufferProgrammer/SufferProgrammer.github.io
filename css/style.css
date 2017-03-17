@@ -161,6 +161,31 @@ a.btn-custom:active {
 	background-color: transparent;
 }
 
+.down-btn:link{
+	background-color: transparent;
+	transition-duration: 1.0s;
+	color: #94EB9F;
+}
+
+.down-btn:visited{
+	background-color: transparent;
+	transition-duration: 1.0s;
+	color: #94EB9F;
+}
+
+.down-btn:hover{
+	background-color: transparent;
+	transition-duration: 1.0s;
+	color: #D4B588;
+}
+
+.down-btn:active{
+	background-color: transparent;
+	transition-duration: 1.0s;
+	color: #94EB9F;
+}
+
+
 /*scroll property*/
 
 *::-webkit-scrollbar-track {
